@@ -24,6 +24,7 @@
 		044C44C727281C9C008382EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		044C44CA27281C9C008382EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		044C44CC27281C9C008382EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		044C44D42728215A008382EB /* Configuration.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Configuration.storekit; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 				044C44BE27281C99008382EB /* AppDelegate.swift */,
 				044C44C027281C99008382EB /* SceneDelegate.swift */,
 				044C44C227281C99008382EB /* ViewController.swift */,
+				044C44D42728215A008382EB /* Configuration.storekit */,
 				044C44C427281C99008382EB /* Main.storyboard */,
 				044C44C727281C9C008382EB /* Assets.xcassets */,
 				044C44C927281C9C008382EB /* LaunchScreen.storyboard */,

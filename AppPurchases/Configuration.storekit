@@ -1,0 +1,78 @@
+{
+  "identifier" : "69ED40F3",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "ABF3744D",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "remove all ads",
+          "displayName" : "removeAdd",
+          "locale" : "en_GB"
+        }
+      ],
+      "productID" : "com.shubh.AppAd",
+      "referenceName" : "Add remove",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "1",
+      "familyShareable" : false,
+      "internalID" : "86080AAF",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Remove all ads in Application",
+          "displayName" : "remove Ads",
+          "locale" : "en_GB"
+        }
+      ],
+      "productID" : "com.shubh.AppUnlock",
+      "referenceName" : "appunlock",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "E40F1FF7",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "buy your like",
+          "displayName" : "getLike",
+          "locale" : "en_GB"
+        }
+      ],
+      "productID" : "com.shubh.GetLike",
+      "referenceName" : "getLikes",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
